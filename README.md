@@ -1,2 +1,11 @@
-# project-templates
-project template for daily use
+# Project Templates
+
+jruby-sinatra
+-----
+
+sinatra based webapp
+
+
+springboot-jpa
+
+springboot + jpa (mysql)
